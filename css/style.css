@@ -1,0 +1,49 @@
+/* Body Design Starts */
+body {
+	background-color: black;
+}
+#particles-js {
+	height: 100%;
+	background-color: black;
+	position: relative;
+}
+.content {
+	position: absolute;
+	padding: 0 60px;
+}
+.head {
+	padding: 50px 0;
+}
+.head h2 {
+	color: #ffff00;
+	font-size: 60px;
+
+	text-align: center;
+}
+.div-name {
+	display: flex;
+	align-items: center;
+	padding-left: 0px;
+}
+.div-name h5 {
+	margin-bottom: 30px;
+	color: #ffffff;
+}
+.map {
+	width: 100%;
+	height: 400px;
+}
+
+/* Footer design starts */
+footer {
+	padding: 70px 0 30px;
+}
+footer h5 {
+	color: #ffff00;
+}
+footer p {
+	color: #ffffff;
+}
+footer span {
+	color: #ffff00;
+}
